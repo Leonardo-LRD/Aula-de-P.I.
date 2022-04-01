@@ -1,2 +1,2 @@
 # Aula-de-P.I.
-Repositório destinado às atividades e trabalhos das aulas de Projeto e Inovação.
+Repositório destinado aos trabalhos e atividades das aulas de Projeto e Inovação.

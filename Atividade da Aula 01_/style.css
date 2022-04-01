@@ -1,0 +1,27 @@
+#a{
+    background-color: #ff0000;
+    width:800px; 
+    height:50vh;
+}
+#b{
+    background-color: #001b27;
+    height: 50%;
+    width: 50%;
+}
+#c{
+    color: black;
+    background-color: whitesmoke;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    font-weight: bold;
+}
+#d{
+    width:50%;
+    height: 100vh;
+    background-color:rgb(238, 255, 0);
+}
+#e{
+    width: 65vw;
+    height:50%;
+    background-color: rgb(255, 145, 0);
+}

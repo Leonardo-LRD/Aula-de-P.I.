@@ -1,0 +1,22 @@
+#a{
+    background-color: rgb(221, 160, 221);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#b{
+    background-color: #FF00FF;
+    height: 100%;
+    width: 250px;
+    border: double;
+    border-color: red;
+    border-width: 20px;
+}
+
+#c{
+    background-color: aquamarine;
+    height: 88%;
+    width: 30%;
+}
